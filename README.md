@@ -20,7 +20,7 @@ __*Project for [Free Code Camp](https://freecodecamp.com/karenfreemansmith) to d
 For questions or comments, please __email [Karen](karenfreemansmith@gmail.com)__
 
 ### Known Issues
-* Bootstrap-theme is not linked in index.html, add link if needed for project
+* Needs a nicer look and feel
 
 ### Technologies Used
 ###### HTML, CSS, Bootstrap, JavaScript, jQuery
