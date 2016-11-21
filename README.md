@@ -10,22 +10,22 @@ __*Project for [Free Code Camp](https://freecodecamp.com/karenfreemansmith) to d
 * User Story: I can click a button to show me a new random quote.
 * User Story: I can press a button to tweet out a quote.
 
-#### Uses:
-* [Fresh Start](http://karenfreemansmith.github.io/freshstart)
+## Technologies Used
+HTML, CSS
 
-### Setup/Installation
-*None required. Clone or download and extract to use*
+## Setup/Installation
+* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
+* _OR_
+* Clone diectory 
+* Open index.html in your favorite browser
 
-### Support & Contact
-For questions or comments, please __email [Karen](karenfreemansmith@gmail.com)__
+## Support & Contact
+For questions, concerns, or suggestions please email karenfreemansmith@gmail.com
 
-### Known Issues
-* Needs a nicer look and feel
+## Known Issues
+* None
 
-### Technologies Used
-###### HTML, CSS, Bootstrap, JavaScript, jQuery
-
-### Legal
+## Legal
 *Licensed under the GNU General Public License v3.0*
 
-Copyright (c) 2016 **_Karen Freeman-Smith_**
+Copyright (c) 2016 Copyright _[Karen Freeman-Smith](https://karenfreemansmith.github.io)_ All Rights Reserved.
